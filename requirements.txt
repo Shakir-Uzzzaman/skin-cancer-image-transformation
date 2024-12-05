@@ -1,0 +1,6 @@
+torch
+diffusers
+transformers
+datasets
+pillow
+scikit-image
